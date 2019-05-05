@@ -1,2 +1,4 @@
 # WSA-IC
-Whale swarm algorithm with iterative counter (WSA-IC) for multimodal function optimization
+Advantages: 1) WSA-IC removes the need of specifying optimal niching parameter for different problems, which increases the practicality; 2) WSA-IC can efficiently identify and jump out of the located extreme points during the iterations, so as to locate as more global optima as possible in a single run, which further increases the practicality; 3) The algorithm dependent parameters of WSA-IC are easy to set for different problems, which also increases the practicality; 4) The population size of WSA-IC does not have to match the number of optima of the optimization problem. Generally, WSA-IC can keep a relative small population size, which contributes significantly to reducing the computation complexity. 
+
+Paper: Zeng, B., Li, X., Gao, L. et al. Whale swarm algorithm with the mechanism of identifying and escaping from extreme points for multimodal function optimization. Neural Comput & Applic (2019). https://doi.org/10.1007/s00521-018-3949-4
